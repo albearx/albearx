@@ -9,4 +9,4 @@ Hi! I'm Albert. I am currently majoring in CS at Purdue University, with an inte
 * JavaScript
 * C
 
-
+View my personal website at https://albearx.netlify.app/ :)
