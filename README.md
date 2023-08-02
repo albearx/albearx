@@ -8,7 +8,6 @@ Hi! I'm Albert. I am currently majoring in CS at Purdue University, with an inte
 * HTML/CSS
 * JavaScript
 * C
-
 * Dynamics/Salesforce CRMs
 * SnapLogic
 * Azure Synapse
